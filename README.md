@@ -34,6 +34,8 @@ MD Viewer is a small desktop app for reading Markdown on Windows. It is a native
 
 Download **MDViewerSetup-0.6.0.exe** from the [latest release](https://github.com/MAXX-2628/md-viewer/releases/latest) and run it. The installer is per-user, so it does not require administrator rights.
 
+Builds are not code-signed yet, so Windows SmartScreen may ask you to confirm. You can verify the download with the SHA-256 checksum published with the release, or build from source.
+
 To make MD Viewer the default for Markdown files, open the **...** menu and choose **Set default for .md**, then pick MD Viewer in Windows Default Apps. Windows always asks the user to confirm default app changes.
 
 ## Build from source
