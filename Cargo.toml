@@ -1,0 +1,17 @@
+[package]
+name = "md-viewer"
+version = "0.6.0"
+edition = "2024"
+description = "A fast, native Markdown viewer for Windows"
+license = "Apache-2.0"
+repository = "https://github.com/MAXX-2628/md-viewer"
+
+[dependencies]
+arboard = "3"
+pulldown-cmark = "0.13"
+rfd = "0.15"
+slint = "1.19"
+webbrowser = "1"
+
+[build-dependencies]
+slint-build = "1.19"

@@ -1,0 +1,12 @@
+/target/
+/Tools/
+/dist/
+*.exe
+*.pdb
+.env
+.env.*
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+*.log
